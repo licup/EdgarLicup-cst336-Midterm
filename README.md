@@ -9,19 +9,15 @@ B) False
 Question 3:  
 [1,2]  
 [1,2]  
-Questions 4:  
-1. A numbered list
-  1. A nested numbered list
-  2. Which is numbered
-2. Which is numbered
-
-Documents - HTML -|
-                  
-               /             \  
-        Title              Body  
+Questions 4:   
+                  Documents   
+                      |  
+                     HTML  
+               /             \    
+        Title               Body  
           |            /          \  
-       My Page     img              p  
-                  /  |  \         /    \  
-             width  src height  span    and My Info  
+       My Page      img              p    
+                  /  |  \         /    \    
+             width  src height  span    and My Info    
                                   |  
                                 My Name  
